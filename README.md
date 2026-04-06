@@ -2,8 +2,7 @@
 
 
 
-The Tip-Tilt-Z Sample Positioner provides automated rotation of a head-fixed rodent specimen about the anterior-posterior and medio-lateral axes for imaging or other purposes. The device also provides automated Z translation and can be customized to accommodate various head bar designs.
-
+The Tip-Tilt-Z Sample Positioner provides automated rotation of a head-fixed rodent specimen about the anterior-posterior and medio-lateral axes for imaging or other purposes. The device also provides automated Z translation and can be customized to accommodate various head bar designs. It was designed for use in imaging rigs with a low amount of vertical clearance such as the MIMMS 2P microscope used commonly at HHMI's Janelia Research Campus. Actuation of the positioner is provided by three Zaber motorized actuators. 
 
 
 &#x20;   Rotation range, each axis: +/-10 deg
